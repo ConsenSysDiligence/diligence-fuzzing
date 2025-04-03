@@ -1,5 +1,5 @@
 -r requirements_dev.txt
 # move twine and cryptography to a separate file to avoid issues on windows installations
-cryptography==42.0.4
+cryptography==44.0.1
 # cryptography is a dependency of twine
 twine==6.1.0
